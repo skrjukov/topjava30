@@ -36,7 +36,7 @@
         <webjars-datatables.version>1.13.5</webjars-datatables.version>
 
         <!-- Logging -->
-        <logback.version>1.4.11</logback.version>
+        <logback.version>1.4.12</logback.version>
         <slf4j.version>2.0.9</slf4j.version>
 
         <!--DB-->
